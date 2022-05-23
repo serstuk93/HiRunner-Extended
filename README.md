@@ -1,5 +1,5 @@
 # HiRunner-Extended
-Have you ever wondered if it is possible to add additional info to your basic running data found in your app after running session? HiRunner-Extended provides advanced running stats by merging data from dedicated runnning sensor and smart watch. Include your ground contact time, foot strike type, landing impact, swing angle, etc. into your running stats and therefore enjoy premium functionality of expensive devices with fraction of cost. 
+Have you ever wondered if it is possible to include additional info to your basic running data found in your app after running session? HiRunner-Extended provides advanced running stats by merging data from dedicated runnning sensor and smart watch. Include your ground contact time, foot strike type, landing impact, swing angle, etc. into your running stats and therefore enjoy premium functionality of expensive devices with fraction of cost. 
 
 Short description
 1. Track your running by both smart watch and running sensor.
